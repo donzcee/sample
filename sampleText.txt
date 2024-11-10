@@ -1,0 +1,4 @@
+This is a sample text for learning git and github, with everything it entails. Step by step, little by little, we will surely
+learn everything needed.
+
+Adding some texts in order to know the difference between git reset and git revert
